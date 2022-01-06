@@ -1,0 +1,14 @@
+.App header {
+  margin:0 auto;
+}
+
+.App {
+  background-color: #2C2D33;
+}
+
+.App-logo {
+  max-height: 250px;
+  max-width:250px;
+  display:block;
+  margin: 0 auto;
+}
