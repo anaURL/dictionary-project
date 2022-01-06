@@ -10,6 +10,7 @@ function App() {
       <img src = {logo} className="App-logo img-fluid" alt="logo"/>
       </header>
     <main>
+    <div className="form-intro text-center"> What word do you want to look up?</div>
       <Dictionary word="solidarity"/>
     </main>
     <footer className="App-footer text-center"> Coded by Ana Banana
