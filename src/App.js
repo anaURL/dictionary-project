@@ -13,7 +13,7 @@ function App() {
     <div className="form-intro text-center"> Searching for a meaning? Look it up!</div>
       <Dictionary word="solidarity"/>
     </main>
-    <footer className="App-footer text-center"> Coded by <a href="https://github.com/bananakodira" target="_blank" >Ana Banana </a> and is open sourced on <a href="https://github.com/bananakodira/dictionary-project">  Github. </a> 
+    <footer className="App-footer text-center"> Coded by <a href="https://github.com/bananakodira" target="_blank" rel="noreferrer" >Ana Banana </a> and is open sourced on <a href="https://github.com/bananakodira/dictionary-project" target="_blank" rel="noreferrer">  Github. </a> 
     </footer>
     </div>
     </div>
