@@ -10,10 +10,10 @@ function App() {
       <img src = {logo} className="App-logo img-fluid" alt="logo"/>
       </header>
     <main>
-    <div className="form-intro text-center"> What word do you want to look up?</div>
+    <div className="form-intro text-center"> Searching for a meaning? Look it up!</div>
       <Dictionary word="solidarity"/>
     </main>
-    <footer className="App-footer text-center"> Coded by Ana Banana
+    <footer className="App-footer text-center"> Coded by <a href="https://github.com/bananakodira" target="_blank" >Ana Banana </a> and is open sourced on <a href="https://github.com/bananakodira/dictionary-project">  Github. </a> 
     </footer>
     </div>
     </div>

@@ -5,9 +5,19 @@
 }
 
 .form-intro {
-    font-size: 14px;
+    font-size: 22px;
+}
+
+.search {
+    margin:20px 10px 0 auto;
 }
 
 li {
     list-style-type: none;
+}
+
+.submit {
+    margin-left: -4px;
+    margin-bottom: -2px;
+    line-height: 1.1;
 }
