@@ -5,11 +5,11 @@ export default function Phonetic (props) {
 
 return ( 
 <div className="Phonetic"> 
-    <a href={props.phonetic.audio} target="_blank" rel="noreferrer"> 
+    <a href={props.phonetics.audio} target="_blank" rel="noreferrer"> 
         Listen
     </a>
-    <br/>
-        {props.phoentic.text}
+ <br/>
+        {props.phoentics.text}
 </div>
 );
 }
