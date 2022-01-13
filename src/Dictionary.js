@@ -30,6 +30,9 @@ export default function Dictionary () {
          <input type="search" className="search" autoFocus={true} onChange={handleWordChange}/> 
          <input type="submit" className="submit" value="Search"/>
             </form>
+            <div className="hint"> 
+            suggested words: feelings, solidarity, community, belonging
+            </div>
             </section>
             <Results results={results}/>
             </div> 
