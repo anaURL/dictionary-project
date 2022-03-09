@@ -13,9 +13,9 @@ function App() {
       </header>
     <main>
     <div className="form-intro text-center"> Searching for a meaning? Look it up!</div>
-      <Dictionary word="solidarity"/>
+      <Dictionary defaultKeyword="solidarity"/>
     </main>
-    <footer className="App-footer text-center"> Coded by <a href="https://github.com/bananakodira" target="_blank" rel="noreferrer" >Ana Banana </a> and is open sourced on <a href="https://github.com/bananakodira/dictionary-project" target="_blank" rel="noreferrer">  Github. </a>
+    <footer className="App-footer text-center"> Coded by <a href="https://github.com/bananakodira" target="_blank" rel="noreferrer" >ana URL </a> and is open sourced on <a href="https://github.com/bananakodira/dictionary-project" target="_blank" rel="noreferrer">  Github. </a>
       <br/> 
     <img src = {logo2} className="App-logo2 img-fluid" alt="logo"/>
     </footer>
